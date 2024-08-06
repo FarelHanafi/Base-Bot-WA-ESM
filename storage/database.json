@@ -1,0 +1,70 @@
+{
+  "users": {
+    "62881026950162@s.whatsapp.net": {
+      "afkTime": -1,
+      "title": "Developer👑",
+      "serialNumber": "04b7ee8120",
+      "afkReason": "",
+      "nick": "Farel Hanafi",
+      "autoai": true,
+      "role": "user",
+      "banned": false
+    },
+    "6282334226291@s.whatsapp.net": {
+      "afkTime": -1,
+      "title": "Offical Bots",
+      "serialNumber": "d986e32ad6",
+      "afkReason": "",
+      "nick": "MashaMD",
+      "premium": false,
+      "autoai": false,
+      "role": "user",
+      "banned": "user"
+    }
+  },
+  "groups": {
+    "120363297738337531@g.us": {
+      "antibot": false,
+      "antiviewonce": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "antipromotion": false,
+      "welcome": false
+    },
+    "62881026950162@s.whatsapp.net": {
+      "antibot": false,
+      "antiviewonce": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "antipromotion": false,
+      "welcome": true,
+      "autoai": false,
+      "banned": false
+    }
+  },
+  "settings": {
+    "6282334226291@s.whatsapp.net": {
+      "online": false,
+      "autosticker": false,
+      "autodownload": false,
+      "autobio": true,
+      "autoread": true,
+      "onlygrub": false,
+      "onlypc": false,
+      "autotype": false,
+      "anticall": false,
+      "watermark": {
+        "packname": "Simple Whatsap Bot",
+        "author": "FarelHanafi"
+      },
+      "autoswview": false,
+      "public": true
+    }
+  },
+  "sticker": {},
+  "database": {},
+  "game": {},
+  "others": {},
+  "usage": {},
+  "message": {}
+}
